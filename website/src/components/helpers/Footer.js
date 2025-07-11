@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="" style={{ position: "relative", minHeight: "100px" }}>
                 {/* Left-aligned logo */}
                 <a
-                    href="https://cikm2025.org/"
+                    href="https://cikm2025.org"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{
