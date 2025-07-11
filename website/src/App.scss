@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+// Import a Google Font
+//@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+// Set your brand colors
+$green: #2f4f4fff ;
+$pink: #fa7c91;
+$grey: #eeeeeeff;
+$beige-light: #d0d1cd;
+$beige-lighter: #ffffff;
+$red : #981B1E;
+$gold: #d2b48cff;
+$green-lighter: #2e8b57ff;
+
+// Update Bulma's global variables
+$family-sans-serif: 'Open+Sans', sans-serif;
+$grey-light: $beige-light;
+$primary: $green-lighter;
+$link: $green;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+// Update some of Bulma's component variables
+$body-background-color: $beige-lighter;
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+
+$navbar-item-hover-background-color: #778492;
+$navbar-item-hover-color: white;
+$navbar-item-color: rgb(84, 94, 105);
+
+
+// Import only what you need from Bulma
+@import "../node_modules/bulma-scss";
