@@ -1,7 +1,7 @@
 import * as React from "react";
 import "./App.scss";
 import "@fortawesome/fontawesome-free/css/all.min.css";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/home";
 import Team from "./pages/team";
 import Cfp from "./pages/cfp";

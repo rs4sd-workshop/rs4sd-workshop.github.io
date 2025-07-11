@@ -1,7 +1,5 @@
 export const HeaderData = [
     {url: "/", text: "Home"},
-
-    // {url: "/#overview", text: "Overview"},
     {
         url: "/cfp",
         text: "CFP",
@@ -22,7 +20,6 @@ export const HeaderData = [
         url: "/program-2025",
         text: "Workshop Program",
     },
-    // {url: "/committee", text: "Program Committee"},
     {
         url: "/team", text: "Team",
         dropDown: [
