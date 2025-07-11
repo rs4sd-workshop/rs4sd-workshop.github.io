@@ -4,6 +4,8 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/home";
 import Team from "./pages/team";
+import Cfp from "./pages/cfp";
+import Program from "./pages/program";
 
 const App = () => {
     return (
@@ -19,9 +21,8 @@ const RoutedApp = () => {
             <Routes>
                 <Route path="*" element={<Home />} />
                 <Route path="/team" element={<Team />} />
-                {/*<Route path="/activities" element={<Projects />} />*/}
-                {/*<Route path="/resources" element={<Resources />} />*/}
-
+                <Route path="/cfp" element={<Cfp/>} />
+                <Route path="/program-2025" element={<Program/>} />
             </Routes>
         </>
     );

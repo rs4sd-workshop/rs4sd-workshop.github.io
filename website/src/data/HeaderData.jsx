@@ -6,13 +6,14 @@ export const HeaderData = [
         url: "/cfp",
         text: "CFP",
         dropDown: [
+
+            {
+                text: "Key Dates",
+                url: "/cfp/#dates",
+            },
             {
                 text: "Submission Guidelines",
                 url: "/cfp/#guidelines",
-            },
-            {
-                text: "Important Dates",
-                url: "/cfp/#dates",
             },
         ]
     },

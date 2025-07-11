@@ -110,3 +110,17 @@ $magenta: #E10075;
   padding-top: 2%;
   padding-right: 5%;
 }
+/* Sticky footer layout */
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Full height of viewport */
+}
+
+.main-content {
+  flex: 1; /* Fills the remaining space */
+}
+
+footer.footer {
+  margin-top: auto; /* Pushes footer to bottom */
+}

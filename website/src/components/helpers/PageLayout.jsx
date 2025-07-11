@@ -10,14 +10,14 @@ import "../../pages/home.scss";
 
 const PageLayout = ({ title, children }) => {
     return (
-        <div>
+        <div className="page-wrapper">
             <Helmet>
                 <title>{title}</title>
             </Helmet>
 
             <Header items={HeaderData} />
 
-            <section className="Home">
+            <section className="Home main-content">
                 <div className="container welcome-container welcome-container--ftl">
                     <div className="container is-fullwidth">
                         <figure>
