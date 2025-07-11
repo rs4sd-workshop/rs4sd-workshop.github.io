@@ -7,13 +7,11 @@ import { Link } from 'react-router-dom'
 const Details = () => {
     return (
         <div id={"details"}>
-            <div className="container is-fullwidth">
-                {/*<div>*/}
-                    <figure>
-                        <img src={Wallpaper2} alt="RS4SD @ CIKM" width="100%"/>
-                        <figcaption style={{fontSize: "xx-small", textAlign:"right"}}>Photo by <Link to={"https://www.pexels.com/photo/person-s-left-hand-holding-green-leaf-plant-886521/"}> Alena Koval</Link> on Pexel</figcaption>
-                    </figure>
-                {/*</div>*/}
+            {/*<div className="container is-fullwidth">*/}
+            {/*        <figure>*/}
+            {/*            <img src={Wallpaper2} alt="RS4SD @ CIKM" width="100%"/>*/}
+            {/*            <figcaption style={{fontSize: "xx-small", textAlign:"right"}}>Photo by <Link to={"https://www.pexels.com/photo/person-s-left-hand-holding-green-leaf-plant-886521/"}> Alena Koval</Link> on Pexel</figcaption>*/}
+            {/*        </figure>*/}
                 <div className="content">
                     <h3 className="title is-3 bottom-spacing">Workshop Overview</h3>
                     <p>
@@ -111,7 +109,7 @@ const Details = () => {
 
                 </div>
 
-            </div>
+            {/*</div>*/}
 
         </div>
 
