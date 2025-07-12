@@ -1,6 +1,6 @@
 import React from "react";
 import "./details.css";
-import { Link } from "react-router-dom";
+import { HashLink as Link } from 'react-router-hash-link';
 
 const Details = () => {
     return (
@@ -69,14 +69,12 @@ const Details = () => {
                 </p>
 
                 <div className="has-text-centered mt-5">
-                    <a
-                        href=""
+                    <Link
+                        to="/cfp"
                         className="button is-primary is-large is-fullwidth"
-                        target="_blank"
-                        rel="noopener noreferrer"
                     >
                         <strong>Submit Paper</strong>
-                    </a>
+                    </Link>
                 </div>
             </div>
         </section>
