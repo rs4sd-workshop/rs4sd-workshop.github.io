@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "homepage": "https://cikm-rs4sd-workshop.github.io/website",
+  "homepage": "https://rs4sd-workshop.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
