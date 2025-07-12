@@ -3,7 +3,7 @@
 ## November 10-14, 2025
 
 ### Website
-[https://cikm-rs4sd-workshop.github.io/website](https://cikm-rs4sd-workshop.github.io/website)
+[https://rs4sd-workshop.github.io](https://rs4sd-workshop.github.io)
 
 ### To update the website
 * Make your changes and run `yarn build`, followed by `yarn deploy`.
