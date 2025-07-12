@@ -14,7 +14,7 @@ const Header = (props) => {
             <nav className="navbar is-fixed-top" role="navigation" aria-label="main navigation">
                 <div className="navbar-brand">
                     <a className="navbar-item"
-                       // href="/#"
+                       href="/#"
                     >
                         <img src={logo} alt="RS4SD logo" height="150" />
                     </a>
