@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.72851ede.css",
-    "main.js": "/static/js/main.eaab1d92.js",
+    "main.css": "/static/css/main.6918b416.css",
+    "main.js": "/static/js/main.4e8eb012.js",
     "static/js/453.dff87da4.chunk.js": "/static/js/453.dff87da4.chunk.js",
     "static/media/woerndl-nov16-crop.jpg": "/static/media/woerndl-nov16-crop.7db3cec52e5a369b2068.jpg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
@@ -22,12 +22,12 @@
     "static/media/mahdi-jalili.jpeg": "/static/media/mahdi-jalili.79e8c6ab35f8461bff6f.jpeg",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/index.html",
-    "main.72851ede.css.map": "/static/css/main.72851ede.css.map",
-    "main.eaab1d92.js.map": "/static/js/main.eaab1d92.js.map",
+    "main.6918b416.css.map": "/static/css/main.6918b416.css.map",
+    "main.4e8eb012.js.map": "/static/js/main.4e8eb012.js.map",
     "453.dff87da4.chunk.js.map": "/static/js/453.dff87da4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72851ede.css",
-    "static/js/main.eaab1d92.js"
+    "static/css/main.6918b416.css",
+    "static/js/main.4e8eb012.js"
   ]
 }
