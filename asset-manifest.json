@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.6918b416.css",
-    "main.js": "/static/js/main.a3f4938b.js",
+    "main.js": "/static/js/main.49a55b2b.js",
     "static/js/453.dff87da4.chunk.js": "/static/js/453.dff87da4.chunk.js",
+    "static/media/cikm-header-2.svg": "/static/media/cikm-header-2.032c56934ac24ec69cabb7fef6221373.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/alexander.png": "/static/media/alexander.bfb2a37ed0b01f291ee5.png",
-    "static/media/cikm-header-4.png": "/static/media/cikm-header-4.0b09ee8ed6d13bd760e5.png",
     "static/media/woerndl-nov16-crop.jpg": "/static/media/woerndl-nov16-crop.bbe61660b2f38cb6c1ce.jpg",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
@@ -14,20 +14,20 @@
     "static/media/cikm-logo-removebg-preview.png": "/static/media/cikm-logo-removebg-preview.dbaef7adfb8659e3693a.png",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
     "static/media/avishek.jpg": "/static/media/avishek.69e4019b99908d44954e.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.1e6ba1d4bf65c095d7f5.jpeg",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/Mehrdad-Rostami-4.png": "/static/media/Mehrdad-Rostami-4.531b727ad5337cfdc38f.png",
     "static/media/placeholder.png": "/static/media/placeholder.7f8f1c3e8288cf4db77c.png",
-    "static/media/logo.png": "/static/media/logo.b652fe8cc5d4dbb9cefe.png",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/mahdi-jalili.jpeg": "/static/media/mahdi-jalili.79e8c6ab35f8461bff6f.jpeg",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/index.html",
     "main.6918b416.css.map": "/static/css/main.6918b416.css.map",
-    "main.a3f4938b.js.map": "/static/js/main.a3f4938b.js.map",
+    "main.49a55b2b.js.map": "/static/js/main.49a55b2b.js.map",
     "453.dff87da4.chunk.js.map": "/static/js/453.dff87da4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6918b416.css",
-    "static/js/main.a3f4938b.js"
+    "static/js/main.49a55b2b.js"
   ]
 }
