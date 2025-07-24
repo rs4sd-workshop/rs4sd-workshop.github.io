@@ -1,6 +1,6 @@
 import React from "react";
 import { HashLink } from "react-router-hash-link";
-import logo from "../assets/images/logo.png";
+import logo from "../assets/images/logo.jpeg";
 
 const Header = (props) => {
 
@@ -16,7 +16,11 @@ const Header = (props) => {
                     <a className="navbar-item"
                        href="/#"
                     >
-                        <img src={logo} alt="RS4SD logo" height="150" />
+                        <img
+                            src={logo}
+                            alt="RS4SD logo"
+                            style={{ height: "60px", width: "auto", maxHeight: "none" }}
+                        />
                     </a>
 
                     <a
