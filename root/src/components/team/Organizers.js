@@ -5,8 +5,7 @@ import { teamMembers } from "../../data/TeamData";
 const YELLOW = "#ffb500";
 
 const Organizers = () => (
-         <section id="/team/#organizers" className="section">
-            <div className="container">
+         <section id="/team/#organizers">
                 <h3 className="title is-3">Organizers</h3>
                 <div className="columns is-multiline">
                     {teamMembers.map((member, index) => (
@@ -21,7 +20,6 @@ const Organizers = () => (
                         </div>
                     ))}
                 </div>
-            </div>
         </section>
 );
 

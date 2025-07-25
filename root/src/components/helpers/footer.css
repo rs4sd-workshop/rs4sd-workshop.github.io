@@ -1,8 +1,8 @@
 .footer {
     width: 100%;
-    margin-top: auto;
     background-color: #f5f5f5;
     padding: 20px 0;
+    /* No need for margin-top: auto here as we're handling this in the page-wrapper */
 }
 
 .footer-container {

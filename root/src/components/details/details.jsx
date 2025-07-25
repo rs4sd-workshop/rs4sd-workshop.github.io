@@ -4,8 +4,7 @@ import {HashLink as Link} from 'react-router-hash-link';
 
 const Details = () => {
     return (
-        <section id="details" className="section">
-            <div className="container content">
+        <section id="details" >
                 <h3 className="title is-3">Workshop Overview</h3>
 
                 <p>
@@ -37,7 +36,7 @@ const Details = () => {
                     responsible, behavior-aware RS that benefit both individuals and society.
                 </p>
 
-                <h4 className="title is-4">Workshop Theme and Topics</h4>
+                <h4 className="title is-4" style={{paddingTop:"2rem"}}>Workshop Theme and Topics</h4>
                 <ul className="custom-list">
                     <li>Recommender Systems aligned with the UN Sustainable Development Goals (SDGs)</li>
                     <li>Multi-objective RS: balancing user preferences with sustainability, health, and societal
@@ -59,7 +58,7 @@ const Details = () => {
                     </li>
                 </ul>
 
-                <h4 className="title is-4">Workshop Objectives, Goals, and Expected Outcome</h4>
+                <h4 className="title is-4" >Workshop Objectives, Goals, and Expected Outcome</h4>
 
                 <p>
                     The goal of <strong>RS4SD</strong> is to foster interdisciplinary collaboration and advance the
@@ -100,7 +99,6 @@ const Details = () => {
                         <strong>Submit Paper</strong>
                     </Link>
                 </div>
-            </div>
         </section>
     );
 };
