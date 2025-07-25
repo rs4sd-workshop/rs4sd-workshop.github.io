@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.2498fb8f.css",
-    "main.js": "/static/js/main.49a55b2b.js",
+    "main.css": "/static/css/main.a269342e.css",
+    "main.js": "/static/js/main.22e1ebe9.js",
     "static/js/453.dff87da4.chunk.js": "/static/js/453.dff87da4.chunk.js",
-    "static/media/cikm-header-2.svg": "/static/media/cikm-header-2.032c56934ac24ec69cabb7fef6221373.svg",
+    "static/media/cikm-header-3.svg": "/static/media/cikm-header-3.24fa60a1627da1ba199596e1290b985a.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/alexander.png": "/static/media/alexander.bfb2a37ed0b01f291ee5.png",
     "static/media/woerndl-nov16-crop.jpg": "/static/media/woerndl-nov16-crop.bbe61660b2f38cb6c1ce.jpg",
@@ -22,12 +22,12 @@
     "static/media/mahdi-jalili.jpeg": "/static/media/mahdi-jalili.79e8c6ab35f8461bff6f.jpeg",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/index.html",
-    "main.2498fb8f.css.map": "/static/css/main.2498fb8f.css.map",
-    "main.49a55b2b.js.map": "/static/js/main.49a55b2b.js.map",
+    "main.a269342e.css.map": "/static/css/main.a269342e.css.map",
+    "main.22e1ebe9.js.map": "/static/js/main.22e1ebe9.js.map",
     "453.dff87da4.chunk.js.map": "/static/js/453.dff87da4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2498fb8f.css",
-    "static/js/main.49a55b2b.js"
+    "static/css/main.a269342e.css",
+    "static/js/main.22e1ebe9.js"
   ]
 }
