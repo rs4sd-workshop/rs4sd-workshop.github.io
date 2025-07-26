@@ -27,7 +27,7 @@ const Details = () => {
                     are welcome.
                 </p>
 
-                <p>
+                <p style={{ marginBottom: "2rem" }}>
                     A central theme is the integration of behavioral science and AI to design interventions that guide
                     users toward more sustainable and healthier choices—without compromising autonomy.
                     RS4SD brings together researchers and practitioners from RS, AI, sustainability, and behavioral
@@ -35,29 +35,6 @@ const Details = () => {
                     The workshop encourages interdisciplinary collaboration and aims to build a community dedicated to
                     responsible, behavior-aware RS that benefit both individuals and society.
                 </p>
-
-                <h4 className="title is-4" style={{paddingTop:"2rem"}}>Workshop Theme and Topics</h4>
-                <ul className="custom-list">
-                    <li>Recommender Systems aligned with the UN Sustainable Development Goals (SDGs)</li>
-                    <li>Multi-objective RS: balancing user preferences with sustainability, health, and societal
-                        impact
-                    </li>
-                    <li>Behavior-aware RS: integrating behavioral modeling, nudging strategies, and digital
-                        interventions
-                    </li>
-                    <li>Responsible and ethically aligned personalization frameworks</li>
-                    <li>
-                        Domain-specific RS for Sustainability: health-aware food recommendation, eco-conscious
-                        consumption, and sustainable travel/mobility (e.g., green product RS, low-carbon tourism)
-                    </li>
-                    <li>Generative AI and LLM-powered explainable RS for behavior influence and social good</li>
-                    <li>Evaluation metrics beyond accuracy: behavior change, long-term value, environmental and ethical
-                        impact
-                    </li>
-                    <li>Real-world case studies and industrial applications in food, mobility, health, and e-commerce
-                    </li>
-                </ul>
-
                 <h4 className="title is-4" >Workshop Objectives, Goals, and Expected Outcome</h4>
 
                 <p>
@@ -93,7 +70,7 @@ const Details = () => {
 
                 <div className="has-text-centered mt-5">
                     <Link
-                        to="/cfp"
+                        to="https://easychair.org/my/conference?conf=rs4sd"
                         className="button is-primary is-large is-fullwidth"
                     >
                         <strong>Submit Paper</strong>
