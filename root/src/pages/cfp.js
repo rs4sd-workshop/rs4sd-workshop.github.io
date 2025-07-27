@@ -82,6 +82,10 @@ const Cfp = () => {
                     </li>
                     <li>Real-world case studies and industrial applications in food, mobility, health, and e-commerce
                     </li>
+                    <li>
+                        Energy-efficient RS models: developing recommendation algorithms that minimize computational cost and energy consumption to reduce the carbon footprint of AI systems and support environmental sustainability.
+
+                    </li>
                 </ul>
 
 
