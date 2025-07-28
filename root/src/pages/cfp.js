@@ -124,11 +124,6 @@ const Cfp = () => {
             </section>
             <section id="dates">
                 <h3 className="title is-4" style={{marginTop: "2rem"}}>Key Dates</h3>
-                {/*<p style={{fontWeight: "bold", fontSize: "x-large", paddingBottom: "1rem"}}>*/}
-                {/*    <a href="https://www.timeanddate.com/time/zones/aoe" style={linkStyle}>*/}
-                {/*        All deadlines are at 11:59pm in the Anywhere on Earth (AoE) time zone.*/}
-                {/*    </a>*/}
-                {/*</p>*/}
                 <blockquote
                     style={{
                         borderLeft: "5px solid #3667a3",

@@ -80,7 +80,7 @@ const Details = () => {
                     borderRadius: "0 8px 8px 0",
                 }}
             >
-                Check out our <a href="/cfp" style={{ textDecoration: "None", color: "#3667a3" }}>CFP</a> for more details.
+                Check out our <a href="#/cfp" style={{ textDecoration: "None", color: "#3667a3" }}>CFP</a> for more details.
             </blockquote>
 
 
