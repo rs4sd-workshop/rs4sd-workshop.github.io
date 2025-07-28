@@ -1,10 +1,12 @@
 import React from "react";
 import PageLayout from "../components/helpers/PageLayout";
+import {HashLink as Link} from "react-router-hash-link";
 
 const Cfp = () => {
     const linkStyle = {
         color: "#3667a3",
         fontWeight: "500",
+        textDecoration: "underline",
     };
 
     return (
@@ -122,11 +124,27 @@ const Cfp = () => {
             </section>
             <section id="dates">
                 <h3 className="title is-4" style={{marginTop: "2rem"}}>Key Dates</h3>
-                <p style={{fontWeight: "bold", fontSize: "x-large", paddingBottom: "1rem"}}>
-                    <a href="https://www.timeanddate.com/time/zones/aoe" style={linkStyle}>
-                        All deadlines are at 11:59pm in the Anywhere on Earth (AoE) time zone.
-                    </a>
-                </p>
+                {/*<p style={{fontWeight: "bold", fontSize: "x-large", paddingBottom: "1rem"}}>*/}
+                {/*    <a href="https://www.timeanddate.com/time/zones/aoe" style={linkStyle}>*/}
+                {/*        All deadlines are at 11:59pm in the Anywhere on Earth (AoE) time zone.*/}
+                {/*    </a>*/}
+                {/*</p>*/}
+                <blockquote
+                    style={{
+                        borderLeft: "5px solid #3667a3",
+                        background: "#ffefcaff",
+                        color: "black",
+                        margin: "2rem 0",
+                        padding: "1.2rem 2rem 1.2rem 1.5rem",
+                        fontSize: "1.15rem",
+                        fontStyle: "italic",
+                        boxShadow: "0 2px 8px rgba(0, 64, 128, 0.05)",
+                        borderRadius: "0 8px 8px 0",
+                    }}
+                >  <a href="https://www.timeanddate.com/time/zones/aoe" style={linkStyle}>
+                    All deadlines are at 11:59pm in the Anywhere on Earth (AoE) time zone.
+                </a>
+                </blockquote>
                 <ul>
                     <li style={{marginBottom: "0.5rem"}}>
                         <strong>Paper Submission Deadline:</strong> August 31, 2025
@@ -148,6 +166,14 @@ const Cfp = () => {
                     the form of a poster or a paper.
                 </p>
             </section>
+            <div className="has-text-centered mt-5">
+                <Link
+                    to="https://easychair.org/my/conference?conf=rs4sd"
+                    className="button is-primary is-large is-fullwidth"
+                >
+                    <strong>Submit Paper</strong>
+                </Link>
+            </div>
         </PageLayout>
     );
 };

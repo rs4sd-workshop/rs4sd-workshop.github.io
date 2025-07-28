@@ -27,7 +27,7 @@ const Footer = () => {
                         <span style={{color: "#e63946"}}>R</span>
                         <span style={{color: "#f4a300"}}>S</span>
                         <span style={{color: "#4CAF50"}}>4</span>
-                        <span style={{color: "#1d3557"}}>SD</span> Workshop @ CIKM 2025, Seoul, South Korea
+                        <span style={{color: "#1d3557"}}>SD</span> Workshop @ CIKM 2025, Seoul, Korea
                     </p>
                     <p className="has-text-success is-italic" style={{fontSize: "x-small"}}>
                         {/*© All rights reserved*/}

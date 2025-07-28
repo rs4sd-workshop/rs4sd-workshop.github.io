@@ -67,15 +67,23 @@ const Details = () => {
                     special journal issue,
                     and promote shared benchmarks and datasets to foster ongoing collaboration.
                 </p>
+            <blockquote
+                style={{
+                    borderLeft: "5px solid #3667a3",
+                    background: "#ffefcaff",
+                    color: "#222",
+                    margin: "2rem 0",
+                    padding: "1.2rem 2rem 1.2rem 1.5rem",
+                    fontSize: "1.15rem",
+                    fontStyle: "italic",
+                    boxShadow: "0 2px 8px rgba(0, 64, 128, 0.05)",
+                    borderRadius: "0 8px 8px 0",
+                }}
+            >
+                Check out our <a href="/cfp" style={{ textDecoration: "None", color: "#3667a3" }}>CFP</a> for more details.
+            </blockquote>
 
-                <div className="has-text-centered mt-5">
-                    <Link
-                        to="https://easychair.org/my/conference?conf=rs4sd"
-                        className="button is-primary is-large is-fullwidth"
-                    >
-                        <strong>Submit Paper</strong>
-                    </Link>
-                </div>
+
         </section>
     );
 };
