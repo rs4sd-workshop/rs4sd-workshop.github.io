@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a269342e.css",
-    "main.js": "/static/js/main.01ce0817.js",
+    "main.js": "/static/js/main.e5cde2ff.js",
     "static/js/453.dff87da4.chunk.js": "/static/js/453.dff87da4.chunk.js",
     "static/media/cikm-header-3.svg": "/static/media/cikm-header-3.24fa60a1627da1ba199596e1290b985a.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
@@ -15,19 +15,19 @@
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
     "static/media/avishek.jpg": "/static/media/avishek.69e4019b99908d44954e.jpg",
     "static/media/logo.jpeg": "/static/media/logo.1e6ba1d4bf65c095d7f5.jpeg",
+    "static/media/Mourad.jpeg": "/static/media/Mourad.0c22d08352da2d35a5d7.jpeg",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/Mehrdad-Rostami-4.png": "/static/media/Mehrdad-Rostami-4.531b727ad5337cfdc38f.png",
-    "static/media/placeholder.png": "/static/media/placeholder.7f8f1c3e8288cf4db77c.png",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/mahdi-jalili.jpeg": "/static/media/mahdi-jalili.79e8c6ab35f8461bff6f.jpeg",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/index.html",
     "main.a269342e.css.map": "/static/css/main.a269342e.css.map",
-    "main.01ce0817.js.map": "/static/js/main.01ce0817.js.map",
+    "main.e5cde2ff.js.map": "/static/js/main.e5cde2ff.js.map",
     "453.dff87da4.chunk.js.map": "/static/js/453.dff87da4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a269342e.css",
-    "static/js/main.01ce0817.js"
+    "static/js/main.e5cde2ff.js"
   ]
 }
