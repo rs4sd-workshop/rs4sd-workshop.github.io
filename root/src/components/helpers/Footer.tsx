@@ -31,7 +31,7 @@ const Footer = () => {
                     </p>
                     <p className="has-text-success is-italic" style={{fontSize: "x-small"}}>
                         {/*© All rights reserved*/}
-                        The website image and logo was created using ChatGPT, Google Imagen and AI-based tools, ensuring
+                        The website image and logo were created using ChatGPT, Google Imagen and AI-based tools, ensuring
                         that no external content or copyrighted material was used.
                     </p>
                 </div>
