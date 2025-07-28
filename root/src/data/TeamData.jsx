@@ -5,7 +5,7 @@ import mahdiImg from "../assets/images/team/mahdi-jalili.jpeg"
 import avishekImg from "../assets/images/team/avishek.jpg"
 import wolfgangImg from "../assets/images/team/woerndl-nov16-crop.jpg"
 import alexImg from "../assets/images/team/alexander.png"
-import mouradImg from "../assets/images/team/placeholder.png"
+import mouradImg from "../assets/images/team/Mourad.jpeg"
 
 export const teamMembers = [
     {
