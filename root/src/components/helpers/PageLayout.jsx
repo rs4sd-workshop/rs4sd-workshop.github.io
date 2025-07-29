@@ -33,7 +33,8 @@ const PageLayout = ({title, children}) => {
                                     <span className="sd-color">D</span>'2025)
                                 </span>
                             </h1>
-                            <p>November 10–14, Coex, Seoul, Korea (co-located with CIKM'2025)</p>
+                            <p>November 10–14, Coex, Seoul, Korea &nbsp;<a href={"https://cikm2025.org/"}>(co-located with CIKM'2025)
+                            </a></p>
                         </div>
                     </div>
                 </div>

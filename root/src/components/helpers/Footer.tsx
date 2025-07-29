@@ -1,6 +1,6 @@
 import React from "react";
 import "./footer.css";
-import logo from "../../assets/images/cikm-logo-removebg-preview.png";
+import logo from "../../assets/images/logo-removebg-preview.png";
 
 const Footer = () => {
     return (
@@ -9,9 +9,7 @@ const Footer = () => {
                 {/* Logo aligned to the left on large screens */}
                 <div className="footer-logo-wrapper">
                     <a
-                        href="https://cikm2025.org"
-                        target="_blank"
-                        rel="noopener noreferrer"
+                        href="#"
                     >
                         <img
                             src={logo}
