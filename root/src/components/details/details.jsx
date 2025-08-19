@@ -1,10 +1,28 @@
 import React from "react";
 import "./details.css";
-import {HashLink as Link} from 'react-router-hash-link';
+import {HashLink, HashLink as Link} from 'react-router-hash-link';
 
 const Details = () => {
     return (
         <section id="details" >
+            <h3 className="title is-3">News</h3>
+            <blockquote
+                style={{
+                    borderLeft: "5px solid #3667a3",
+                    background: "#e6f2ff",
+                    color: "#222",
+                    margin: "0 0 2rem 0",
+                    padding: "1.2rem 2rem 1.2rem 1.5rem",
+                    fontSize: "1.15rem",
+                    fontStyle: "italic",
+                    boxShadow: "0 2px 8px rgba(0, 64, 128, 0.05)",
+                    borderRadius: "0 8px 8px 0",
+                }}
+            >
+                <HashLink smooth to="/program-2025/#keynote">
+                    Keynote Speaker
+                </HashLink> announced! Stay tuned for more updates.
+            </blockquote>
                 <h3 className="title is-3">Workshop Overview</h3>
 
                 <p>
