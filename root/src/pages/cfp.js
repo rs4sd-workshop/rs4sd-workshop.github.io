@@ -142,7 +142,7 @@ const Cfp = () => {
                 </blockquote>
                 <ul>
                     <li style={{marginBottom: "0.5rem"}}>
-                        <strong>Paper Submission Deadline:</strong> August 31, 2025
+                        <strong>Paper Submission Deadline:</strong> <span style={{textDecoration: "line-through"}}>August 31, 2025 </span> <span style ={{color: "red"}}>&nbsp;September 15, 2025 </span>
                     </li>
                     <li style={{marginBottom: "0.5rem"}}>
                         <strong>Notification to Authors:</strong> September 30, 2025
