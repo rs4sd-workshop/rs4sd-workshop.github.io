@@ -145,10 +145,10 @@ const Cfp = () => {
                         <strong>Paper Submission Deadline:</strong> <span style={{textDecoration: "line-through"}}>August 31, 2025 </span> <span style ={{color: "red"}}>&nbsp;September 21, 2025 </span>
                     </li>
                     <li style={{marginBottom: "0.5rem"}}>
-                        <strong>Notification to Authors:</strong> September 30, 2025
+                        <strong>Notification to Authors:</strong> October 6, 2025
                     </li>
                     <li style={{marginBottom: "0.5rem"}}>
-                        <strong>Camera-ready Due:</strong> October 5, 2025
+                        <strong>Camera-ready Due:</strong> October 13, 2025
                     </li>
                 </ul>
             </section>
