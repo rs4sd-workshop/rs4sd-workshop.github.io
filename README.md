@@ -1,4 +1,5 @@
-# 1st International Workshop on Recommender Systems for Sustainable Development through Responsible Nudging @CIKM 2025, Seoul, South Korea
+# 1st International Workshop on Recommender Systems for Sustainable Development through 
+Responsible Nudging @CIKM 2025, Seoul, South Korea
 
 ## November 10-14, 2025
 
