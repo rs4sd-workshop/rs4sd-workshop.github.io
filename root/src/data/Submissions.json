@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "authorNames": "Hari Sannamuri",
+    "paperTitle": "Bioactive Compound Profiling and Antioxidative Capacity of Pecan Processing Co-Products",
+    "paperCategory": "",
+    "paperDecision": false,
+    "paperScore": 0.0
+  },
+  {
+    "id": 2,
+    "authorNames": "Xin Zhang, Weiliang Li, Rui Li, Zihang Fu, Tongyi Tang, Zhengyu Zhang, Wen-Yen Chen, Nima Noorshams, Nirav Jasapara, Xiaowen Ding, Ellie Wen and Xue Feng",
+    "paperTitle": "Personalized Interpolation: Achieving Efficient Conversion Estimation with Flexible Optimization Windows",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 1.4
+  },
+  {
+    "id": 3,
+    "authorNames": "Chung Park, Taesan Kim, Hyeongjun Yun, Dongjoon Hong, Junui Hong, Kijung Park, Mincheol Cho, Mira Myong and Min Sung Choi",
+    "paperTitle": "Towards Trustworthy LLM-Based Recommendation via Rationale Integration",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 0.3
+  },
+  {
+    "id": 4,
+    "authorNames": "Kapil Poreddy and Ajit Sahu",
+    "paperTitle": "Food-as-Medicine Recommender Systems: A Vision for Generative AI-Powered Grocery Guidance",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 0.5
+  },
+  {
+    "id": 5,
+    "authorNames": "Ashmi Banerjee, Melih Mert Aksoy and Wolfgang Wörndl",
+    "paperTitle": "SmartSustain Recommender System: Navigating Sustainability Trade-offs in Personalized City Trip Planning",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 1.6
+  },
+  {
+    "id": 6,
+    "authorNames": "Kazuo Watanabe and Eitetsu Togo",
+    "paperTitle": "Conversational Multi-Objective Recommendation in Collaborative Filtering",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 0.0
+  },
+  {
+    "id": 7,
+    "authorNames": "Yurou Zhao, Yiding Sun, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao",
+    "paperTitle": "On Usefulness, Fidelity, and Generalizability of Post-hoc Explanation for Food Recommendation",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 1.4
+  },
+  {
+    "id": 8,
+    "authorNames": "Alessandro Sbandi, Federico Siciliano and Fabrizio Silvestri",
+    "paperTitle": "Efficient Recommendations via Graph Coarsening and Label Propagation",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 1.0
+  },
+  {
+    "id": 9,
+    "authorNames": "Kevin Foley, Shaghayegh Agah and Kavya Priyanka Kakinada",
+    "paperTitle": "LSRec: A Lightweight Sequential Recommender with LLM Architecture",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 2.0
+  },
+  {
+    "id": 10,
+    "authorNames": "Sajad Ahmadian, Shiva Eshaghi, Milad Ahmadian, Mehrdad Rosatmi and Mourad Oussalah",
+    "paperTitle": "Health-Aware Food Recommendation Using a Deep Reinforcement Learning-based Ranking Optimization",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 1.0
+  },
+  {
+    "id": 11,
+    "authorNames": "Jiyoung Han and Hyunjoon Kim",
+    "paperTitle": "Are We Fully Leveraging Semantic Identifiers? Insights from Error Analysis for Improving Generative Recommendation",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 0.7
+  },
+  {
+    "id": 12,
+    "authorNames": "Liping Zhang, Subhajit Sanyal and Tracy King",
+    "paperTitle": "CTMR: Cohort-Aware Transformer Multi-Objective Ranker for Personalized, Debiased, and Diversity-Aware Product Search",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 1.4
+  },
+  {
+    "id": 13,
+    "authorNames": "Bernard Tam, Basem Suleiman and Qifan Chen",
+    "paperTitle": "My Travel Agent is a Multi-Agent System: An Adaptable Framework for Complex Domain-Specific Tasks",
+    "paperCategory": "",
+    "paperDecision": true,
+    "paperScore": 0.6
+  }
+]

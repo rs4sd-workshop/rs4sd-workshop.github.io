@@ -6,6 +6,7 @@ import Home from "./pages/home";
 import Team from "./pages/team";
 import Cfp from "./pages/cfp";
 import Program from "./pages/program";
+import Accepted from "./pages/Accepted";
 
 const App = () => {
     return (
@@ -23,6 +24,7 @@ const RoutedApp = () => {
                 <Route path="/team" element={<Team />} />
                 <Route path="/cfp" element={<Cfp/>} />
                 <Route path="/program-2025" element={<Program/>} />
+                <Route path="/accepted-papers" element={<Accepted/>} />
             </Routes>
         </>
     );

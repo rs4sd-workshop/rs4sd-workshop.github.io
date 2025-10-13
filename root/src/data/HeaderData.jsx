@@ -15,6 +15,7 @@ export const HeaderData = [
             },
         ]
     },
+    {url: "/accepted-papers", text: "Accepted Papers"},
 
     {
         url: "/program-2025",
