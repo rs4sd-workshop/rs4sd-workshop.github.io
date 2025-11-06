@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a269342e.css",
-    "main.js": "/static/js/main.a6a4a865.js",
+    "main.css": "/static/css/main.f59be5a3.css",
+    "main.js": "/static/js/main.3612c6c4.js",
     "static/js/453.dff87da4.chunk.js": "/static/js/453.dff87da4.chunk.js",
     "static/media/cikm-header-3.svg": "/static/media/cikm-header-3.86e00bcac8e8c6d1e930dbf8e2edc07e.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
@@ -22,12 +22,12 @@
     "static/media/mahdi-jalili.jpeg": "/static/media/mahdi-jalili.79e8c6ab35f8461bff6f.jpeg",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/index.html",
-    "main.a269342e.css.map": "/static/css/main.a269342e.css.map",
-    "main.a6a4a865.js.map": "/static/js/main.a6a4a865.js.map",
+    "main.f59be5a3.css.map": "/static/css/main.f59be5a3.css.map",
+    "main.3612c6c4.js.map": "/static/js/main.3612c6c4.js.map",
     "453.dff87da4.chunk.js.map": "/static/js/453.dff87da4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a269342e.css",
-    "static/js/main.a6a4a865.js"
+    "static/css/main.f59be5a3.css",
+    "static/js/main.3612c6c4.js"
   ]
 }
