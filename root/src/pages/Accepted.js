@@ -28,15 +28,12 @@ const AcceptedPapers = () => {
                         borderRadius: "0 8px 8px 0",
                     }}
                 >
-                    The review decisions have been finalized and announced. Presentation schedules and further information will be communicated to the authors shortly.
+                    The review decisions have been finalized and announced. Please check the program for details.
                 </blockquote>
 
                 <p style={{ marginBottom: "1.5rem" }}>
                     We are delighted to announce the accepted contributions for the workshop.
-                    Papers are categorized based on their presentation format.
                 </p>
-
-                <h3 className="title is-4" style={{ marginTop: "2rem" }}>Full Papers</h3>
                 <ul className="custom-list">
                     {fullPapers.map(paper => (
                         <li key={paper.id}>
@@ -45,8 +42,6 @@ const AcceptedPapers = () => {
                         </li>
                     ))}
                 </ul>
-
-                <h3 className="title is-4" style={{ marginTop: "2.5rem" }}>Posters</h3>
                 <ul className="custom-list">
                     {posters.map(paper => (
                         <li key={paper.id}>

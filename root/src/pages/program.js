@@ -1,6 +1,8 @@
 import React from "react";
 import PageLayout from "../components/helpers/PageLayout";
 import Keynote from "../components/program/Keynote";
+import Schedule from "../components/program/Schedule";
+import { scheduleDate, scheduleItems } from "../data/ScheduleData";
 import { HashLink } from 'react-router-hash-link';
 
 const Program = () => (
@@ -22,11 +24,11 @@ const Program = () => (
             >
                 <HashLink smooth to="/program-2025/#keynote">
                     Keynote Speaker
-                </HashLink> announced!
+                </HashLink> and final program announced!
             </blockquote>
 
 
-            <p style={{marginBottom: "2rem"}}>Program details will be updated as we finalize the schedule.</p>
+            <Schedule date={scheduleDate} scheduleItems={scheduleItems} />
         </section>
         <Keynote/>
     </PageLayout>
