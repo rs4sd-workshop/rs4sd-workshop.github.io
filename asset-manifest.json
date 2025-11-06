@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.f59be5a3.css",
-    "main.js": "/static/js/main.56ba70f3.js",
+    "main.js": "/static/js/main.1d2321de.js",
     "static/js/453.dff87da4.chunk.js": "/static/js/453.dff87da4.chunk.js",
     "static/media/cikm-header-3.svg": "/static/media/cikm-header-3.86e00bcac8e8c6d1e930dbf8e2edc07e.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/alexander.png": "/static/media/alexander.bfb2a37ed0b01f291ee5.png",
     "static/media/woerndl-nov16-crop.jpg": "/static/media/woerndl-nov16-crop.bbe61660b2f38cb6c1ce.jpg",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/negar-keynote.png": "/static/media/negar-keynote.0c322472728dbc495b98.png",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/logo-removebg-preview.png": "/static/media/logo-removebg-preview.e5c8da9c425985268ad7.png",
     "static/media/ashmi.jpg": "/static/media/ashmi.6f4665b4c97972ea0f40.jpg",
@@ -23,11 +24,11 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/index.html",
     "main.f59be5a3.css.map": "/static/css/main.f59be5a3.css.map",
-    "main.56ba70f3.js.map": "/static/js/main.56ba70f3.js.map",
+    "main.1d2321de.js.map": "/static/js/main.1d2321de.js.map",
     "453.dff87da4.chunk.js.map": "/static/js/453.dff87da4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f59be5a3.css",
-    "static/js/main.56ba70f3.js"
+    "static/js/main.1d2321de.js"
   ]
 }
