@@ -21,7 +21,7 @@ const Details = () => {
             >
                 <HashLink smooth to="/program-2025/#keynote">
                     Keynote Speaker
-                </HashLink> announced! Stay tuned for more updates.
+                </HashLink> and <HashLink smooth to="/program-2025/#schedule"> Program Schedule </HashLink> announced!
             </blockquote>
                 <h3 className="title is-3">Workshop Overview</h3>
 
