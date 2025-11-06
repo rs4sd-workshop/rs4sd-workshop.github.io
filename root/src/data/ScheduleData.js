@@ -105,7 +105,7 @@ export const scheduleItems = [
     },
     {
         time: "17:05-17:15",
-        session: "\"My Travel Agent is a Multi-Agent System: An Adaptable Framework for Complex Domain-Specific Tasks\"",
+        session: "My Travel Agent is a Multi-Agent System: An Adaptable Framework for Complex Domain-Specific Tasks",
         type: "paper"
     },
     {
