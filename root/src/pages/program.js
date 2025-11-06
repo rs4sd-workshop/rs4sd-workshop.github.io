@@ -23,7 +23,7 @@ const Program = () => (
                 }}
             >
                 <HashLink smooth to="/program-2025/#keynote">
-                    Keynote Speaker
+                    Keynote Speakers
                 </HashLink> and final program announced!
             </blockquote>
 
